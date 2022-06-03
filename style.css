@@ -1,0 +1,43 @@
+body{
+    background-color: #FFFFFF;
+    font-family: poppin,Sans-Serif;
+    padding:10px ;
+}
+ .hero{
+    font-size: 10px;
+    text-align: center;
+    float:center;
+    border: 4em groove #FFBFBE;
+    margin:10em;
+    font-weight: bold;
+    font-size: 10px' em;
+}
+img{
+    position: fied;
+}
+.logo{
+    color: #D92870;
+}
+.header{
+ padding-left: 20px;
+  background: #1abc9c;
+  font-size: 10px;
+}
+.play{
+    float: left;
+    width: 50px;
+    height: 45px;
+    border-radius: 25px;
+    
+}
+.store{
+    text-decoration: none;
+}
+.download{
+    float:center;
+}
+.span{
+    text-decoration: none;
+    color-interpolation: blue;
+    text-align: center;
+}
