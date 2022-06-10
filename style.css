@@ -11,6 +11,8 @@ body{
     margin:10em;
     font-weight: bold;
     font-size: 10px' em;
+    text-decoration: none;
+    color: #920600;
 }
 img{
     position: fied;
@@ -40,4 +42,7 @@ img{
     text-decoration: none;
     color-interpolation: blue;
     text-align: center;
+}
+.marquee{
+    direction:;
 }
