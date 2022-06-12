@@ -13,6 +13,7 @@ body{
     font-size: 10px' em;
     text-decoration: none;
     color: #920600;
+    
 }
 img{
     position: fied;
@@ -45,4 +46,7 @@ img{
 }
 .marquee{
     direction:;
+}
+.de{
+     margin-top: 100px;
 }
